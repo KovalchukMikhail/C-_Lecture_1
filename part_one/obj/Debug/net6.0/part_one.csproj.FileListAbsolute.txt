@@ -1,0 +1,15 @@
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\bin\Debug\net6.0\part_one.exe
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\bin\Debug\net6.0\part_one.deps.json
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\bin\Debug\net6.0\part_one.runtimeconfig.json
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\bin\Debug\net6.0\part_one.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\bin\Debug\net6.0\part_one.pdb
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.csproj.AssemblyReference.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.AssemblyInfoInputs.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.AssemblyInfo.cs
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.csproj.CoreCompileInputs.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\refint\part_one.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.pdb
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\part_one.genruntimeconfig.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_one\obj\Debug\net6.0\ref\part_one.dll
