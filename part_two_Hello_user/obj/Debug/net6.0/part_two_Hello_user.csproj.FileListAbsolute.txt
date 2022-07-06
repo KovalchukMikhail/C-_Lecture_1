@@ -1,0 +1,15 @@
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\bin\Debug\net6.0\part_two_Hello_user.exe
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\bin\Debug\net6.0\part_two_Hello_user.deps.json
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\bin\Debug\net6.0\part_two_Hello_user.runtimeconfig.json
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\bin\Debug\net6.0\part_two_Hello_user.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\bin\Debug\net6.0\part_two_Hello_user.pdb
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.csproj.AssemblyReference.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.AssemblyInfoInputs.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.AssemblyInfo.cs
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.csproj.CoreCompileInputs.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\refint\part_two_Hello_user.dll
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.pdb
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\part_two_Hello_user.genruntimeconfig.cache
+C:\Учеба\GeekBrains\Курс_разработчик\Занятия\04_Знакомство_с_языком_C#\Лекции\Лекция_1\part_two_Hello_user\obj\Debug\net6.0\ref\part_two_Hello_user.dll
